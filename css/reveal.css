@@ -1385,3 +1385,7 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+h2, h3, p{
+  text-align: left;
+}
