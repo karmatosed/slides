@@ -57,7 +57,9 @@ body {
   line-height: 1.2;
   letter-spacing: normal;
   text-shadow: none;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  text-align: left;
+}
 
 .reveal h1 {
   font-size: 1.5em; }
