@@ -19,7 +19,7 @@ body {
   background-color: #fdf6e3; }
 
 .reveal {
-  font-family: "Noto Serif", "Book Antiqua", Palatino, FreeSerif, serif;
+  font-family: "Noto Serif", serif;
   font-size: 28px;
   font-weight: normal;
   color: #666;
@@ -52,7 +52,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #333;
-  font-family: "Noto Serif", Impact, sans-serif;
+  font-family: "Noto Serif", serif;
   font-weight: bold;
   line-height: 1.2;
   letter-spacing: normal;
